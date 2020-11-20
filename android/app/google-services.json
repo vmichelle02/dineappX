@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336186564815",
+    "firebase_url": "https://dinexapp-7c676.firebaseio.com",
+    "project_id": "dinexapp-7c676",
+    "storage_bucket": "dinexapp-7c676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336186564815:android:cc10159bf189d5864317ba",
+        "android_client_info": {
+          "package_name": "com.fyp.dineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336186564815-a61qsct4gkshgpe9vu4675siidvh3825.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84gRv1vMgIVkfKmnzaqNx2cUS5QHHlx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336186564815-a61qsct4gkshgpe9vu4675siidvh3825.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
